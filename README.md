@@ -39,7 +39,7 @@ $ bundle
 Give permission to execute the script:
 
 ```shell
-$ chmod +x ./exe/primes-generator
+$ chmod +x ./pfizerfakedata
 ```
 
 Run the script:
